@@ -1,1 +1,2 @@
-# random
+# mnist
+trying lasagne on mnist
