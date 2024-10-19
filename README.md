@@ -1,1 +1,1 @@
-Learning what emojis mean through word2vec.
+Learning what emoji mean through word2vec.
